@@ -4,7 +4,7 @@ from google.genai import errors
 
 # --- AI SETUP ---
 # Use your API Key here
-client = genai.Client(api_key="YOUR_API_KEY")
+client = genai.Client(api_key="GEMINI_API_KEY = "AIzaSyCFK3Hzhbthrlkz3CN8k7GOXhRN61rHT0w")
 
 # --- CUSTOMER INTERFACE ---
 st.set_page_config(page_title="iKON Xerox Solutions", page_icon="🖨️")
